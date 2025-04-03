@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993789565162",
+    "project_id": "danhbatlu",
+    "storage_bucket": "danhbatlu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993789565162:android:28d7e39c23fcb5ef885f93",
+        "android_client_info": {
+          "package_name": "com.example.danhbatlu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQcZ77kLdwPxj8pq1A4iYEYsaHL8OcITE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
